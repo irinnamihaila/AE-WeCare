@@ -1,0 +1,13 @@
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.DataAccess\bin\Debug\netcoreapp3.1\ProiectMaster.DataAccess.deps.json
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.DataAccess\bin\Debug\netcoreapp3.1\ProiectMaster.DataAccess.dll
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.DataAccess\obj\Debug\netcoreapp3.1\ProiectMaster.DataAccess.AssemblyInfoInputs.cache
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.DataAccess\obj\Debug\netcoreapp3.1\ProiectMaster.DataAccess.AssemblyInfo.cs
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.DataAccess\obj\Debug\netcoreapp3.1\ProiectMaster.DataAccess.csprojAssemblyReference.cache
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.DataAccess\bin\Debug\netcoreapp3.1\ProiectMaster.DataAccess.pdb
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.DataAccess\bin\Debug\netcoreapp3.1\ProiectMaster.Models.dll
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.DataAccess\bin\Debug\netcoreapp3.1\ProiectMaster.Models.pdb
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.DataAccess\obj\Debug\netcoreapp3.1\ProiectMaster.DataAccess.csproj.CopyComplete
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.DataAccess\obj\Debug\netcoreapp3.1\ProiectMaster.DataAccess.dll
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.DataAccess\obj\Debug\netcoreapp3.1\ProiectMaster.DataAccess.pdb
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.DataAccess\bin\Debug\netcoreapp3.1\ProiectMaster.DataAccess.runtimeconfig.json
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.DataAccess\bin\Debug\netcoreapp3.1\ProiectMaster.DataAccess.runtimeconfig.dev.json

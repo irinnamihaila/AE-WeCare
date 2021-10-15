@@ -1,0 +1,15 @@
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Services\bin\Debug\netcoreapp3.1\ProiectMaster.Services.deps.json
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Services\bin\Debug\netcoreapp3.1\ProiectMaster.Services.dll
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Services\bin\Debug\netcoreapp3.1\ProiectMaster.Services.pdb
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Services\bin\Debug\netcoreapp3.1\ProiectMaster.DataAccess.dll
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Services\bin\Debug\netcoreapp3.1\ProiectMaster.Models.dll
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Services\bin\Debug\netcoreapp3.1\ProiectMaster.DataAccess.pdb
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Services\bin\Debug\netcoreapp3.1\ProiectMaster.Models.pdb
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Services\obj\Debug\netcoreapp3.1\ProiectMaster.Services.csprojAssemblyReference.cache
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Services\obj\Debug\netcoreapp3.1\ProiectMaster.Services.AssemblyInfoInputs.cache
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Services\obj\Debug\netcoreapp3.1\ProiectMaster.Services.AssemblyInfo.cs
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Services\obj\Debug\netcoreapp3.1\ProiectMaster.Services.csproj.CopyComplete
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Services\obj\Debug\netcoreapp3.1\ProiectMaster.Services.dll
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Services\obj\Debug\netcoreapp3.1\ProiectMaster.Services.pdb
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Services\bin\Debug\netcoreapp3.1\ProiectMaster.Services.runtimeconfig.json
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Services\bin\Debug\netcoreapp3.1\ProiectMaster.Services.runtimeconfig.dev.json

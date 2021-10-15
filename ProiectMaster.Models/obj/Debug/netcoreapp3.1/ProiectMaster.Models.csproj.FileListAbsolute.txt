@@ -1,0 +1,9 @@
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\bin\Debug\netcoreapp3.1\ProiectMaster.Models.deps.json
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\bin\Debug\netcoreapp3.1\ProiectMaster.Models.dll
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\obj\Debug\netcoreapp3.1\ProiectMaster.Models.AssemblyInfoInputs.cache
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\obj\Debug\netcoreapp3.1\ProiectMaster.Models.AssemblyInfo.cs
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\bin\Debug\netcoreapp3.1\ProiectMaster.Models.pdb
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\obj\Debug\netcoreapp3.1\ProiectMaster.Models.dll
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\obj\Debug\netcoreapp3.1\ProiectMaster.Models.pdb
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\bin\Debug\netcoreapp3.1\ProiectMaster.Models.runtimeconfig.json
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\bin\Debug\netcoreapp3.1\ProiectMaster.Models.runtimeconfig.dev.json

@@ -1,0 +1,15 @@
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\bin\Debug\net5.0\ProiectMaster.Models.deps.json
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\bin\Debug\net5.0\ProiectMaster.Models.runtimeconfig.json
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\bin\Debug\net5.0\ProiectMaster.Models.runtimeconfig.dev.json
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\bin\Debug\net5.0\ProiectMaster.Models.dll
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\bin\Debug\net5.0\ref\ProiectMaster.Models.dll
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\bin\Debug\net5.0\ProiectMaster.Models.pdb
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\obj\Debug\net5.0\ProiectMaster.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\obj\Debug\net5.0\ProiectMaster.Models.AssemblyInfoInputs.cache
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\obj\Debug\net5.0\ProiectMaster.Models.AssemblyInfo.cs
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\obj\Debug\net5.0\ProiectMaster.Models.csproj.CoreCompileInputs.cache
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\obj\Debug\net5.0\ProiectMaster.Models.dll
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\obj\Debug\net5.0\ref\ProiectMaster.Models.dll
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\obj\Debug\net5.0\ProiectMaster.Models.pdb
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\obj\Debug\net5.0\ProiectMaster.Models.genruntimeconfig.cache
+D:\Master An 2\AE\ProiectMaster.Web\ProiectMaster.Models\obj\Debug\net5.0\ProiectMaster.Models.csproj.AssemblyReference.cache
